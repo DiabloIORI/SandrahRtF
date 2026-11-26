@@ -9,6 +9,7 @@ AUTO_TRA ~SandrahRTF/TRA/%s~
 
 LANGUAGE ~English~ ~english~ ~SandrahRTF/TRA/english/RTF-setup.tra~
 LANGUAGE ~Russian (by arcanecoast.ru team)~ ~russian~ ~SandrahRTF/TRA/russian/RTF-setup.tra~
+LANGUAGE ~Simplified Chinese~ ~schinese~ ~SandrahRTF/TRA/schinese/RTF-setup.tra~
 
 BEGIN ~Check Requirements for EET~
 
